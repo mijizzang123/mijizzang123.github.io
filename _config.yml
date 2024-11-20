@@ -6,10 +6,10 @@ profile_img: "/assets/img/real_profile.jpg"
 # Social Links
 email: mijizzang1@gmail.com
 github_username: mijizzang123
-twitter_username: twitter
-instagram_username: instagram
-linkedin_username: linkedin
-facebook_username: facebook
+twitter_username: ""
+instagram_username: ""
+linkedin_username: ""
+facebook_username: ""
 
 # External API
 giscus_repo: "mijizzang123/mijizzang123.comments"
